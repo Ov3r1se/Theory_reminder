@@ -1,0 +1,10 @@
+D:\MYPROJECT_Theory reminder\Theory_reminder\Theory_reminder\obj\Debug\Theory_reminder.csprojAssemblyReference.cache
+D:\MYPROJECT_Theory reminder\Theory_reminder\Theory_reminder\obj\Debug\Theory_reminder.Form1.resources
+D:\MYPROJECT_Theory reminder\Theory_reminder\Theory_reminder\obj\Debug\Theory_reminder.Properties.Resources.resources
+D:\MYPROJECT_Theory reminder\Theory_reminder\Theory_reminder\obj\Debug\Theory_reminder.csproj.GenerateResource.cache
+D:\MYPROJECT_Theory reminder\Theory_reminder\Theory_reminder\obj\Debug\Theory_reminder.csproj.CoreCompileInputs.cache
+D:\MYPROJECT_Theory reminder\Theory_reminder\Theory_reminder\bin\Debug\Theory_reminder.exe.config
+D:\MYPROJECT_Theory reminder\Theory_reminder\Theory_reminder\bin\Debug\Theory_reminder.exe
+D:\MYPROJECT_Theory reminder\Theory_reminder\Theory_reminder\bin\Debug\Theory_reminder.pdb
+D:\MYPROJECT_Theory reminder\Theory_reminder\Theory_reminder\obj\Debug\Theory_reminder.exe
+D:\MYPROJECT_Theory reminder\Theory_reminder\Theory_reminder\obj\Debug\Theory_reminder.pdb
